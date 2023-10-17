@@ -1,0 +1,6 @@
+paho-mqtt
+opencv-python-headless
+numpy
+streamlit
+tensorflow
+streamlit_webrtc
